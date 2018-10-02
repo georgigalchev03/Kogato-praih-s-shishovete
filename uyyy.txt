@@ -1,2 +1,4 @@
 Nqkuv prost tekst
 promqna s bash
+promqna s tortise
+
